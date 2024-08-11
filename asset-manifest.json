@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my_website/static/css/main.bdf95389.css",
+    "main.js": "/my_website/static/js/main.9cbc26f0.js",
+    "static/media/mini_youtube.png": "/my_website/static/media/mini_youtube.6cda86367589933e0e77.png",
+    "static/media/images.io.png": "/my_website/static/media/images.io.f12bb1ac45ef3a9ea845.png",
+    "static/media/avinash_photo.jpeg": "/my_website/static/media/avinash_photo.662e768fc9fd42b29833.jpeg",
+    "static/media/iamavi.png": "/my_website/static/media/iamavi.353cb218084bf49fba8f.png",
+    "index.html": "/my_website/index.html",
+    "main.bdf95389.css.map": "/my_website/static/css/main.bdf95389.css.map",
+    "main.9cbc26f0.js.map": "/my_website/static/js/main.9cbc26f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf95389.css",
+    "static/js/main.9cbc26f0.js"
+  ]
+}
